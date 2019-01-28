@@ -60,8 +60,9 @@ Cloud plugin supports Google Drive, Dropbox, OneDrive and Box accounts.
 
 Authors
 ---
-- Arpit Khurana
-- Vishal Nehra
+- Dengisan Ramadanoski (CEO)
+- Arpit Khurana (CEO)
+- Vishal Nehra (Constributor)
 
 ### License: 
 
